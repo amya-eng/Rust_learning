@@ -1,0 +1,1 @@
+pub fn add_to_waitlist() {}        // 存放函数定义
